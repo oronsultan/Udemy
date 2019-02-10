@@ -1,0 +1,6 @@
+div{
+  background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+  border-radius: 10px;
+  padding: 30px;
+  text-align: center;
+}
